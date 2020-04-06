@@ -2,3 +2,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
 Šî–{‚ğŠw‚Ñ‚Ü‚·
 .git add
 .git commit
+.git rm
